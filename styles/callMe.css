@@ -1,0 +1,10 @@
+.call-me-container {
+    padding: 25px 65px;
+    border-radius: 10px;
+    background-image: url("../images/gradient1.png");
+}
+
+.call-me-container h3 {
+    font-size: 40px;
+    margin: 20px 0;
+}
