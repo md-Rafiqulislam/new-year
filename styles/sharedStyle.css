@@ -1,0 +1,20 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.primary-btn {
+    padding: 5px 15px;
+    border: none;
+    border-radius: 8px;
+}
