@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
+    max-width: 1600px;
 }
 
 a {
@@ -16,7 +17,15 @@ li {
 }
 
 .primary-btn {
-    padding: 5px 15px;
+    padding: 15px 25px;
     border: none;
     border-radius: 8px;
+    background-color: #f15b22;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.half-width {
+    width: 50%;
 }
