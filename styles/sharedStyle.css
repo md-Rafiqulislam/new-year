@@ -29,3 +29,12 @@ li {
 .half-width {
     width: 50%;
 }
+
+.green {
+    color: green;
+}
+
+main {
+    max-width: 1140px;
+    margin: 50px auto;
+}
