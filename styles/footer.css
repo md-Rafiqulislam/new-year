@@ -1,0 +1,48 @@
+.footer-container {
+    width: 100%;
+    height: auto;
+    background-color: black;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+}
+
+.footer-first-column h2, p, h4 {
+    margin: 20px 0;
+    text-align: left;
+}
+
+.footer-first-column h2 {
+    font-size: 35px;
+}
+
+
+.footer-second-column {
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+}
+
+.footer-second-column h4 {
+    font-size: 25px;
+}
+
+
+
+.footer-form input, button {
+    display: block;
+}
+
+
+.footer-form input {
+    width: 100%;
+    padding: 15px 35px 15px 35px;
+    text-align: right;
+    border: none;
+    border-radius: 10px;
+    color:blue;
+    font-size: 25px;
+    margin: 15px 0;
+}
